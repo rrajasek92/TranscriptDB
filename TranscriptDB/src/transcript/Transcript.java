@@ -47,11 +47,6 @@ public class Transcript {
 		}
 		System.out.println(Display+"\n\t\t\tGPA:  "+gpa);
 	}
-	public static float studentGPA(String studentID){
-		
-		
-		
-		return 0;
-	}
+	
 
 }
